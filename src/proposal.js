@@ -12,10 +12,10 @@ const Proposal = () => {
 
     return (
         <div className="proposal-container">
-            <h1>To my big baby Fadekemi Olumade</h1>
+            <h1>To my baby Oluwaseun Deborah Jegede</h1>
             <p>
-                Every moment spent with you feels like a beautiful dream come true. 
-                Your smile brightens my day and your presence makes my heart race. 
+                Every moment spent imagining and thinking about you feels like a beautiful dream come true. 
+                Your smile brightens my day and your voice makes my heart race. 
                 I can't imagine my life without you, and I want to cherish every moment together.
             </p>
             <p>
