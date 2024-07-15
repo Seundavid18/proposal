@@ -12,7 +12,7 @@ const Proposal = () => {
 
     return (
         <div className="proposal-container">
-            <h1>To my baby Oluwadamilola Amora</h1>
+            <h1>To my baby Oluwadamilola Ayomide Faith Amora</h1>
             <p>
                 Every moment spent imagining and thinking about you feels like a beautiful dream come true. 
                 Your smile brightens my day and your voice makes my heart race. 
